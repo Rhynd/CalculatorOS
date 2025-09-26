@@ -1,6 +1,0 @@
-D:/Stuff/FunStuff/AssemblyFun/cmake-build-debug/CMakeFiles/build_bins.dir
-D:/Stuff/FunStuff/AssemblyFun/cmake-build-debug/CMakeFiles/build_img.dir
-D:/Stuff/FunStuff/AssemblyFun/cmake-build-debug/CMakeFiles/run.dir
-D:/Stuff/FunStuff/AssemblyFun/cmake-build-debug/CMakeFiles/os.dir
-D:/Stuff/FunStuff/AssemblyFun/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Stuff/FunStuff/AssemblyFun/cmake-build-debug/CMakeFiles/rebuild_cache.dir
